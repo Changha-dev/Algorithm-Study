@@ -49,6 +49,6 @@
 |Week 12|투 포인터, 슬라이딩 윈도우|
 |Week 13|백트랙킹|
 ### 4. 개인 정리
-- 창하 : [알고리즘 정리](https://mirage-coriander-94a.notion.site/0b7f0770413e47db82cf770baac201be?pvs=4)
+- 창하 : [알고리즘 정리](https://www.notion.so/8cd2856acbaf461580eecfc57bc0878c?v=4a4c17f6bb534888b7a87e993d054c45)
 - 인선 : [알고리즘 정리](https://www.notion.so/3dfe8552f04143acb1a8a0f794f21477?pvs=4)
 - 은지 : [알고리즘 정리](https://www.notion.so/9732677813784e95a1e83d91b80e7576?v=8a301cf8733a45ffa5a95c5298865e3b&pvs=4)
